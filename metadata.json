@@ -1,0 +1,6 @@
+{
+  "name": "قارئ ومحرر PDF المحترف",
+  "description": "منصة احترافية متكاملة لقراءة ملفات PDF، التعديل عليها، تنظيم الصفحات، استخراج وتحويل النصوص باستخدام OCR بدون أي تكلفة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
